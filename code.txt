@@ -1,0 +1,470 @@
+# InterviewBit Problems: A Structured Study Guide
+
+This guide organizes the provided problem list into logical categories, making it easier to tackle your preparation topic by topic. Problems are sorted by difficulty within each section.
+
+⭐ = A highly popular or frequently asked question, a must-do for this topic.
+
+---
+
+## Tier 1: The Absolute Fundamentals
+Start here. These topics are the building blocks for almost everything else.
+
+### **1. Arrays**
+The most fundamental data structure. Master manipulation, searching, and sorting.
+
+#### **Very Easy**
+*   Pick from both sides!
+*   Even Product!
+*   Positive Negative
+*   Diagonal Flip
+*   Greater than All
+*   Chips Factory
+#### **Easy**
+*   **Max Sum Contiguous Subarray** ⭐
+*   **Add One To Number** ⭐
+*   **Set Matrix Zeros** ⭐
+*   Pascal Triangle
+*   Kth Row of Pascal's Triangle
+*   Find Duplicate in Array
+*   Spiral Order Matrix I
+*   Spiral Order Matrix II
+*   Min Steps in Infinite Grid
+*   Noble Integer
+*   Flip
+*   **Wave Array** ⭐
+*   Max Non Negative SubArray
+*   Anti Diagonals
+*   Balance Array
+*   Max Min
+*   Perfect Peak of Array
+*   Leaders in an array
+*   Sort array with squares!
+*   Pythagorean Triplets
+#### **Medium**
+*   **First Missing Integer** ⭐
+*   **Rotate Matrix** ⭐
+*   **Next Permutation** ⭐
+*   Merge Intervals
+*   Repeat and Missing Number Array
+*   Largest Number
+*   N/3 Repeat Number
+*   Maximum Consecutive Gap
+*   Max Distance
+*   Hotel Bookings Possible
+*   Find Permutation
+*   Maximum Absolute Difference
+*   Maximum Unsorted Subarray
+*   Triplets with Sum between given range
+*   Partitions
+*   Move Zeroes
+*   Make equal elements Array
+*   Segregate 0s and 1s in an array
+*   Array Sum
+*   Occurence of Each Number
+*   Maximum Sum Triplet
+*   Maximum Sum Square SubMatrix
+*   Maximum Area of Triangle!
+#### **Hard**
+*   Large Factorial
+
+### **2. Strings**
+Manipulation, parsing, and pattern matching are key skills.
+
+#### **Very Easy**
+*   **Reverse the String** ⭐
+*   Check Palindrome
+*   String Inversion
+*   Palindromic Words
+*   Valid Password
+*   Maximum Substring
+#### **Easy**
+*   **Palindrome String** ⭐
+*   Length of Last Word
+*   Longest Common Prefix
+*   Count And Say
+*   Add Binary Strings
+*   Amazing Subarrays
+*   Convert to Palindrome
+*   Vowel and Consonant Substrings!
+*   Remove Consecutive Characters
+*   Minimum Parantheses!
+*   Character Frequencies
+#### **Medium**
+*   **Implement StrStr** ⭐
+*   **Atoi** ⭐
+*   **Longest Palindromic Substring** ⭐
+*   Zigzag String
+*   Multiply Strings
+*   Valid Ip Addresses
+*   Compare Version Numbers
+*   Pretty Json
+*   Integer To Roman
+*   Roman To Integer
+*   Minimum Characters required to make a String Palindromic
+*   Bulls and Cows
+*   Salutes
+#### **Hard**
+*   **Justified Text** ⭐
+*   Stringoholics
+*   Compact Scientific Notation
+
+### **3. Math**
+Covers number theory, combinatorics, and general mathematical logic.
+
+#### **Very Easy**
+*   FizzBuzz
+*   Total Moves For Bishop!
+*   Armstrong Number
+*   Leap Year
+*   Lowest Common Multiple (LCM)
+*   Which Season?
+*   Socks Pair
+*   Product of Digits
+*   Number of Sundays
+*   Odd Even Rule
+*   Round Table
+#### **Easy**
+*   **Palindrome Integer** ⭐
+*   Excel Column Number
+*   Reverse integer
+*   Verify Prime
+*   Binary Representation
+*   Excel Column Title
+*   Prime Numbers
+*   All Factors
+*   Prime Sum
+*   Rearrange Array
+*   Highest Product
+*   Is Rectangle?
+*   Step by Step
+*   Distribute in Circle!
+*   Digital Root
+#### **Medium**
+*   **Trailing Zeros in Factorial** ⭐
+*   **Grid Unique Paths** ⭐
+*   Power Of Two Integers
+*   Greatest Common Divisor
+*   Sorted Permutation Rank
+*   Largest Coprime Divisor
+*   Sum of pairwise Hamming Distance
+*   Next Similar Number
+*   K-th Permutation
+*   Divisible by 60
+*   Addition without Summation
+#### **Hard**
+*   **Sorted Permutation Rank with Repeats** ⭐
+*   Find Nth Fibonacci
+*   Next Smallest Palindrome!
+*   Powerful Divisors
+
+### **4. Hashing**
+Essential for optimizing search and lookup operations.
+
+#### **Easy**
+*   **2 Sum** ⭐
+*   **Longest Substring Without Repeat** ⭐
+*   **Longest Consecutive Sequence** ⭐
+*   Colorful Number
+*   Check Palindrome!
+*   First Repeating element
+#### **Medium**
+*   **4 Sum** ⭐
+*   **Window String** ⭐
+*   Anagrams
+*   Copy List
+*   Valid Sudoku
+*   Largest Continuous Sequence Zero Sum
+*   Diffk II
+*   Fraction
+*   Points on the Straight Line
+*   Equal
+*   Pairs With Given Xor
+*   An Increment Problem
+*   Subarray with given XOR
+*   Two out of Three
+*   Subarray with B odd numbers
+*   Longest Subarray Length
+*   Subarray with equal occurences!
+#### **Hard**
+*   **Substring Concatenation** ⭐
+
+---
+## Tier 2: Core Data Structures & Algorithms
+Once fundamentals are solid, move to these classic topics.
+
+### **5. Linked Lists**
+Focus on pointer manipulation, cycles, and list restructuring.
+
+#### **Easy**
+*   **Merge Two Sorted Lists** ⭐
+*   **Remove Duplicates from Sorted List** ⭐
+*   **Remove Nth Node from List End** ⭐
+*   **Reverse Linked List** ⭐
+*   Swap List Nodes in pairs
+*   Intersection of Linked Lists
+*   Reverse Link List Recursion
+*   Sort Binary Linked List
+*   Kth Node From Middle
+#### **Medium**
+*   **List Cycle** ⭐
+*   Reorder List
+*   Add Two Numbers as Lists
+*   Rotate List
+*   Sort List
+*   Remove Duplicates from Sorted List II
+*   Reverse Link List II
+*   Partition List
+*   Insertion Sort List
+*   Palindrome List
+*   K reverse linked list
+*   Even Reverse
+*   Reverse Alternate K Nodes
+#### **Hard**
+*   (Many hard list problems are combined with other concepts like DP or sorting)
+
+### **6. Stacks & Queues**
+LIFO and FIFO logic. Often used for expression evaluation, traversals, and finding nearest elements.
+
+#### **Easy**
+*   **Generate all Parentheses** ⭐
+*   Evaluate Expression
+*   Reverse String
+*   Redundant Braces
+*   Nearest Smaller Element
+*   Balanced Parantheses!
+*   Ticket Counter
+#### **Medium**
+*   **Min Stack** ⭐
+*   **Sliding Window Maximum** ⭐
+*   Simplify Directory Path
+*   First non-repeating character in a stream of characters
+*   Hotel Service
+#### **Hard**
+*   **Largest Rectangle in Histogram** ⭐
+*   **Rain Water Trapped** ⭐
+
+### **7. Two Pointers**
+An efficient technique for problems involving sorted arrays or searching for pairs.
+
+#### **Easy**
+*   **Remove Duplicates from Sorted Array** ⭐
+*   Intersection Of Sorted Arrays
+*   Pair With Given Difference
+#### **Medium**
+*   **3 Sum** ⭐
+*   **Container With Most Water** ⭐
+*   Sort by Color
+*   Merge Two Sorted Lists II
+*   Remove Element from Array
+*   Remove Duplicates from Sorted Array II
+*   Array 3 Pointers
+*   Diffk
+*   Max Continuous Series of 1s
+*   Counting Subarrays!
+*   Minimize the absolute difference
+*   Subarrays with distinct integers!
+*   Maximum Ones After Modification
+*   Palindrome Numbers
+
+### **8. Binary Search**
+For searching in sorted/monotonic search spaces.
+
+#### **Easy**
+*   Sorted Insert Position
+*   **Square Root of Integer** ⭐
+*   Implement Power Function
+*   Count Element Occurence
+*   Rotated Array
+*   Search in Bitonic Array!
+*   Smaller or equal elements
+#### **Medium**
+*   **Search for a Range** ⭐
+*   **Rotated Sorted Array Search** ⭐
+*   Matrix Search
+*   **Allocate Books** ⭐
+*   Painter's Partition Problem
+*   Matrix Median
+*   WoodCutting Made Easy!
+*   Capacity To Ship Packages Within B Days
+*   Find a peak element
+#### **Hard**
+*   **Median of Array** ⭐
+
+### **9. Bit Manipulation**
+Low-level operations. Key for optimization and specific problem types.
+
+#### **Easy**
+*   **Number of 1 Bits** ⭐
+*   **Single Number** ⭐
+*   Trailing Zeroes
+*   Swap Bits
+#### **Medium**
+*   **Single Number II** ⭐
+*   **Divide Integers** ⭐
+*   Reverse Bits
+*   Different Bits Sum Pairwise
+*   Min XOR value
+*   XOR-ing the Subarrays!
+#### **Hard**
+*   **Count Total Set Bits** ⭐
+*   Palindromic Binary Representation
+
+---
+## Tier 3: Advanced Algorithmic Paradigms
+These require a deeper understanding of recursion and problem decomposition.
+
+### **10. Greedy Algorithms**
+Making the locally optimal choice at each step.
+
+#### **Easy**
+*   **Majority Element** ⭐
+*   Bulbs
+*   Highest Product
+*   Assign Mice to Holes
+*   Largest Permutation
+#### **Medium**
+*   **Gas Station** ⭐
+*   **Distribute Candy** ⭐
+*   Seats
+*   **Meeting rooms** ⭐
+*   Disjoint Intervals
+#### **Hard**
+*   (No hard greedy problems listed in this set)
+
+### **11. Backtracking**
+Exploring all possibilities recursively and pruning paths.
+
+#### **Easy**
+*   Reverse Link List Recursion
+#### **Medium**
+*   **Subsets II** ⭐
+*   **Permutations** ⭐
+*   Combinations
+*   Combination Sum
+*   Palindrome Partitioning
+*   Generate all Parentheses II
+*   Letter Phone
+*   Combination Sum II
+*   Gray Code
+*   All Unique Permutations
+*   Kth Permutation Sequence
+*   Maximal String
+#### **Hard**
+*   **NQueens** ⭐
+*   **Sudoku** ⭐
+
+### **12. Trees (Binary, BST, etc.)**
+Hierarchical data. Traversal, construction, and property validation are common themes.
+
+#### **Easy**
+*   Identical Binary Trees
+*   **Symmetric Binary Tree** ⭐
+*   Max Depth of Binary Tree
+*   Balanced Binary Tree
+*   Inorder Traversal
+*   Postorder Traversal
+*   Sorted Array To Balanced BST
+*   Path Sum
+*   Level Order
+*   Valid Binary Search Tree
+*   Invert the Binary Tree
+*   Path to Given Node
+*   Vertical Order traversal of Binary Tree
+#### **Medium**
+*   **Construct Binary Tree From Inorder And Preorder** ⭐
+*   Flatten Binary Tree to Linked List
+*   **Least Common Ancestor** ⭐
+*   ZigZag Level Order Traversal BT
+*   Sum Root to Leaf Numbers
+*   Binary Tree From Inorder And Postorder
+*   Kth Smallest Element In Tree
+*   Right view of Binary tree
+*   Valid BST from Preorder
+*   ... (and many more)
+#### **Hard**
+*   **Recover Binary Search Tree** ⭐
+*   **BST Iterator** ⭐
+*   Populate Next Right Pointers Tree
+*   2-Sum Binary Tree
+*   Order of People Heights
+
+### **13. Heaps & Maps (Priority Queues)**
+Useful for finding min/max elements efficiently, merging, and scheduling.
+
+#### **Easy**
+*   Profit Maximisation
+*   K Largest Elements
+#### **Medium**
+*   **Merge K sorted arrays!** ⭐
+*   Distinct Numbers in Window
+*   Magician and Chocolates
+*   N max pair combinations
+*   Maximum Sum Combinations
+*   Connect Ropes
+#### **Hard**
+*   **Merge K Sorted Lists** ⭐
+*   **LRU Cache** ⭐
+*   Ways to form Max Heap
+
+---
+## Tier 4: The Most Challenging Topics
+These are often considered the hardest, requiring significant practice.
+
+### **14. Dynamic Programming (DP)**
+The art of solving complex problems by breaking them into a collection of simpler subproblems.
+
+#### **Easy**
+*   **Stairs** ⭐
+*   Best Time to Buy and Sell Stocks I
+*   Best Time to Buy and Sell Stocks II
+*   Longest Common Subsequence
+*   Maximum Path in Triangle
+#### **Medium**
+*   **Min Jumps Array** ⭐
+*   **Edit Distance** ⭐
+*   **Longest Increasing Subsequence** ⭐
+*   Max Product Subarray
+*   Word Break
+*   Unique Paths in a Grid
+*   ... (This is the largest category, with over 40 medium problems listed)
+#### **Hard**
+*   **Best Time to Buy and Sell Stocks III** ⭐
+*   **Regular Expression Match** ⭐
+*   Scramble String
+*   Interleaving Strings
+*   Egg Drop Problem!
+
+### **15. Graphs**
+Modeling networks and relationships. Traversal (BFS, DFS), cycle detection, and shortest path are key.
+
+#### **Easy**
+*   Level Order
+*   Cycle in Undirected Graph
+*   Cycle in Directed Graph
+*   Path in Directed Graph
+*   Region in BinaryMatrix
+#### **Medium**
+*   **Clone Graph** ⭐
+*   Black Shapes
+*   Knight On Chess Board
+*   Commutable Islands (MST)
+*   Possibility of finishing all courses (Topological Sort)
+*   Water Flow
+*   ... (and many more)
+#### **Hard**
+*   **Word Ladder I & II** ⭐
+*   Capture Regions on Board
+*   Min Cost Path
+
+---
+
+## Tier 5: Specialized & Miscellaneous
+
+### **16. SQL Programming**
+*   This section contains numerous problems ranging from Easy (e.g., `Town Queries`) to Hard (e.g., `Role Ordering`, `Chess Tournament`). Practice these if you are interviewing for roles that require database knowledge.
+
+### **17. Puzzles**
+*   These are brain teasers, often with elegant, non-obvious solutions. Examples: `Fastest Horses`, `Eggs and Building`, `Prisoners and Poison`. Good for flexing logical thinking.
+
+### **18. Time Complexity Analysis**
+*   Problems like `LOOP_CMPL`, `REC_CMPL1`, `Collatz Conjecture` test your understanding of Big-O notation for various code snippets. This is a fundamental skill.
