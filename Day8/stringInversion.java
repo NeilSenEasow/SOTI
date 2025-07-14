@@ -1,7 +1,7 @@
 public class Solution {
     public String solve(String A) {
         StringBuilder result = new StringBuilder(A);
-
+        //forloop
         for (int i = 0; i < result.length(); i++) {
             char c = result.charAt(i);
             if (Character.isUpperCase(c)) {
