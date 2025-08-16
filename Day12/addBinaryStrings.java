@@ -18,7 +18,7 @@ public class Solution {
             
             // Get the integer value of the current digit from string B.
             // If the pointer j is out of bounds, we treat the digit as 0.
-            int digitB = (j >= 0) ? B.charAt(j--) - '0' : 0;
+            int digitB = (j = 0) ? B.charAt(j--) - '0' : 0;
             
             // Calculate the sum of the current digits and the carry from the
             // previous step.
