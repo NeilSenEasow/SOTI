@@ -17,6 +17,11 @@ public class GrassHopper {
       
         return sum;
     }
+
+    public static Object sayHello(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'sayHello'");
+    }
 }
 
 class GrassHopperTest {
