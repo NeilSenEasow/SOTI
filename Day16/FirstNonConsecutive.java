@@ -18,8 +18,8 @@ public class FirstNonConsecutive {
         }
     }
 }
-
-public class FirstNonConsecutiveTest {
+ 
+class FirstNonConsecutiveTest {
     public void test1() {
         assertEquals((Integer)6,
         FirstNonConsecutive.find(new int[] {1,2,3,4,6,7,8}));
