@@ -10,7 +10,7 @@ public class AreaOrPerimeter {
     }
 }
 
-public class AreaOrPerimeterTest {
+class AreaOrPerimeterTest {
     public void test1() {
         assertEquals(16,
         AreaOrPerimeter.areaOrPerimeter(4, 4));
