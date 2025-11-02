@@ -8,7 +8,7 @@ public class Plural {
     }
 }
 
-public class PluralTest {
+class PluralTest {
    @Test
     public void BasicTest() {
       assertEquals(true,Plural.isPlural(0f));
